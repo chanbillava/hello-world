@@ -1,3 +1,3 @@
 # hello-world
 
-Testing feature branch and created Feature-local in Explorer.
+Updating feature branch and created Feature-local in Explorer.
